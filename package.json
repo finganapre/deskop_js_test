@@ -1,0 +1,12 @@
+{
+	"name": "test NW.js",
+	"version": "1.0.0",
+	"description": "First app",
+	"main": "index.html",
+	"author": "FG",
+	"window": {
+		"toolbar": true,
+		"width": 500,
+		"height": 200
+	}
+}
